@@ -28,7 +28,8 @@ X = ((8-6)^2*3)^3.
 
 x = ((8+5) *4) * (10-6)/4) 
 
-      TU RESPUESTA AQUI
+52
+
 
 ## OPERADORES RELACIONALES
 Reto. Una empresa de logística ofrece a sus trabajadores un bono de
